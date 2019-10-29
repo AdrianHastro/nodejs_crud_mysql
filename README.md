@@ -7,13 +7,16 @@ npm install express -save
 npm install express-validator -save
 npm install body-parser -save
 npm install method-override -save
+
 npm install express-flash -save
+
 npm install cookie-parser -save
+
 npm install express-session -save
 
 npm install ejs -save
-npm install mysql -save
 
+npm install mysql -save
 npm install express-myconnection -save
 
 # coinfig conn DB in file config.js
